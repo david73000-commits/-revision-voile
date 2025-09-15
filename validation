@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Confirmation de demande</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        img {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <img src="RandomFileName_2b3aa932-f165-4bf0-8c8f-88482728b26f.png" alt="Logo parapente">
+    <div class="message">
+        Ta demande de révision de voile a bien été prise en compte.<br>
+        Tu recevras très bientôt un e-mail contenant ta fiche en PDF.<br>
+        ✈️ Bon vol à toi !
+    </div>
+    <a href="https://form.jotform.com/252456080695059" class="button">Faire une autre demande</a>
+</body>
+</html>
+
